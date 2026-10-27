@@ -1,0 +1,16 @@
+# Archivos ejecutables generados
+/algoritmo_genetico/ag
+/segundo_codigo/segundo_programa
+
+# Archivos objeto y bibliotecas compiladas
+*.o
+*.a
+*.so
+
+# Archivos temporales
+*~
+*.swp
+*.tmp
+
+# Resultados generados por el algoritmo genético
+/algoritmo_genetico/convergencia.csv
